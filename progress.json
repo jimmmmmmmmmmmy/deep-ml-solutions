@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T14:36:19.700Z",
+  "generated_at": "2026-09-24T14:36:23.261Z",
   "items": {
     "math:1": {
       "kind": "math",
@@ -11,6 +11,69 @@
       "path": "math/0001-derivatives-and-gradients",
       "first_solved_at": "2026-09-16T21:16:41.719Z",
       "last_pushed_at": "2026-09-16T21:16:41.719Z"
+    },
+    "math:5": {
+      "kind": "math",
+      "id": "5",
+      "title": "Gradient Descent Updates",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/5",
+      "path": "math/0005-gradient-descent-updates",
+      "first_solved_at": "2026-09-17T13:20:00.670Z",
+      "last_pushed_at": "2026-09-17T13:20:00.670Z"
+    },
+    "problem:22": {
+      "kind": "problem",
+      "id": "22",
+      "title": "Sigmoid Activation Function Understanding",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/22",
+      "path": "problems/0022-sigmoid-activation-function-understanding",
+      "first_solved_at": "2026-09-17T13:50:05.249Z",
+      "last_pushed_at": "2026-09-17T13:50:05.249Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:42": {
+      "kind": "problem",
+      "id": "42",
+      "title": "Implement ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/42",
+      "path": "problems/0042-implement-relu-activation-function",
+      "first_solved_at": "2026-09-17T14:01:11.545Z",
+      "last_pushed_at": "2026-09-17T14:01:11.545Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:44": {
+      "kind": "problem",
+      "id": "44",
+      "title": "Leaky ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/44",
+      "path": "problems/0044-leaky-relu-activation-function",
+      "first_solved_at": "2026-09-17T14:03:41.072Z",
+      "last_pushed_at": "2026-09-17T14:03:41.072Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:23": {
+      "kind": "problem",
+      "id": "23",
+      "title": "Softmax Activation Function Implementation ",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/23",
+      "path": "problems/0023-softmax-activation-function-implementation",
+      "first_solved_at": "2026-09-17T14:36:23.855Z",
+      "last_pushed_at": "2026-09-17T14:36:23.855Z",
+      "language": "python",
+      "lines": 12
     }
   }
 }
